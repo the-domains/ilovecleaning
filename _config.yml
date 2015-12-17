@@ -1,7 +1,7 @@
 name: ilovecleaning
 favicon: null
-layout_spectrum: 0.8714454171713442
-typography_spectrum: 0.1794643176253885
+layout_spectrum: 0.74501
+typography_spectrum: 0.24259
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.490321098593995
+    - '#ffffff'
+    - '#fff45c'
+    - '#00a5b3'
+    - '#57b079'
+    - '#78c7cc'
+  brandStrength: 0.5
   lightness: 0.4968897632788867
-  saturation: 0.7566476948559284
+  saturation: 0.75
   rhythmicContrast: 0.17692175530828536
 purpose: []
